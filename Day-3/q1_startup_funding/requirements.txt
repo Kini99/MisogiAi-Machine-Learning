@@ -1,0 +1,18 @@
+# Core
+pandas>=2.0.0
+numpy>=1.24.0
+jupyter
+ipykernel
+
+# PandasAI core with LLM support
+pandasai>=3.0.0b2
+pandasai-litellm
+
+# Optional: for visualizations & ML
+seaborn
+plotly
+matplotlib
+scikit-learn
+
+# Optional: for .env and dev experience
+python-dotenv
