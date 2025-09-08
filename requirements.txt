@@ -6,3 +6,4 @@ seaborn
 matplotlib
 ipykernel
 tqdm
+scipy
